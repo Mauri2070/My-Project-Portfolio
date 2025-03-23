@@ -22,4 +22,5 @@ In my Master's seminar “Large-Scale Graph Processing and Graph Partitioning,�
 
 ### Voxel Carving for 3D Human Reconstruction
 For the lecture „3D Scanning and Motion Capture,” I worked on a voxel carving implementation for 3D human reconstruction, along with three others. I was responsible for reimplementing the marching cubes algorithms for our project’s purposes and implementing a benchmarking functionality. The project was written in C++.
+
 The project’s repository is on [GitHub](https://github.com/Mauri2070/AR_Voxel_Project) and includes the final report.
