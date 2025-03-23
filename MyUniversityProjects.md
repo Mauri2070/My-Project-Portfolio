@@ -8,9 +8,9 @@ All my game projects done for university can be found in [My Game Projects](MyGa
 -	QUAD (Bachelor’s Thesis)
 -	Color Jump 3D (Introduction to Informatics for Games Engineering)
 -	Blub’s Adventure (Interdisciplinary project, educational psychology)
--	Robody in the hospital (Master’s Thesis)
--	Bonusprogram for nurses (Master’s Thesis)
--	Osteoarthritis App WIP (Master’s Thesis)
+-	Robody in the hospital (Master’s Thesis, wip)
+-	Bonus program for nurses (Master’s Thesis, wip)
+-	Osteoarthritis App (Master’s Thesis, wip)
 
 ## Seminar Papers
 
@@ -25,4 +25,4 @@ In my Master's seminar “Large-Scale Graph Processing and Graph Partitioning,�
 ### Voxel Carving for 3D Human Reconstruction
 For the lecture “3D Scanning and Motion Capture,” I worked on a voxel carving implementation for 3D human reconstruction, along with three others. I was responsible for reimplementing the marching cubes algorithms for our project’s purposes and implementing a benchmarking functionality. The project was written in C++.
 
-The project’s repository is available on [GitHub]( https://github.com/Mauri2070/AR_Voxel_Project) and includes the final report.
+The project’s repository is available on [GitHub](https://github.com/Mauri2070/AR_Voxel_Project) and includes the final report.

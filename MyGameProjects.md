@@ -15,7 +15,7 @@ My tasks in the development of “Pick2Program” were:
 -	Parts of the game design
 -	Testing and bug fixing
 
-The development and evaluation of “Pick2Program” was discussed by our course supervisors in a paper published in the 2020 IEEE Global Engineering Education Conference (EDUCON) and is available [here](https://ieeexplore.ieee.org/document/9125087)(subscription required).
+The development and evaluation of “Pick2Program” was discussed by our course supervisors in a paper published in the 2020 IEEE Global Engineering Education Conference (EDUCON) and is available [here](https://ieeexplore.ieee.org/document/9125087) (subscription required).
 A short trailer I cut for internal use can be found [here](https://youtu.be/16qAvqvi_5Q).
 
 Used technology: Android Studio, Java, libGDX 
@@ -24,9 +24,9 @@ Used technology: Android Studio, Java, libGDX
 
 In my Bachelor’s Thesis, I developed a quiz game for Android-based mobile devices called “QUAD”. It is a Serious Game specifically designed for older adults with Dementia. “QUAD” is designed as a group activity where a game master (e.g., a nursing home caregiver) presents different questions to the audience. Multiple devices can connect to the game master to answer the question based on four possible answers. The game’s concept and design are oriented on popular German TV quiz shows like “Wer wird Millionär?”. Using questions focusing on topics among nursing home residents, the goal of “QUAD” is to let Dementia patients reminisce and talk about their past experiences to smaller their loneliness, a frequent consequence of Dementia.
 
-The multiplayer component is implemented using [Ubi-Interact]( https://github.com/SandroWeber/ubi-interact), a NodeJS-based plugin for Unity developed by Sandro Weber at TUM. I also participated in fixing some bugs in the plugin I encountered during my development.
+The multiplayer component is implemented using [Ubi-Interact](https://github.com/SandroWeber/ubi-interact), a NodeJS-based plugin for Unity developed by Sandro Weber at TUM. I also participated in fixing some bugs in the plugin I encountered during my development.
 
-The development and theoretical background of “QUAD” can be found in my Bachelor’s Thesis “Development of a Quiz-App for Mobile Devices to use with Dementia Patients”. Further [this video]( https://youtu.be/ph4A03Z5iBM) demonstrated how to use “QUAD”.
+The development and theoretical background of “QUAD” can be found in my Bachelor’s Thesis “Development of a Quiz-App for Mobile Devices to use with Dementia Patients”. Further [this video](https://youtu.be/ph4A03Z5iBM) demonstrated how to use “QUAD”.
 
 Used technology: Unity, C#, Ubi-Interact (NodeJS-based multiplayer plugin for Unity, developed at TUM), Davinci Resolve
 
@@ -49,7 +49,7 @@ My tasks in the development of “Blub’s Adventure” were:
 -	Parts of the game design
 -	Parts of the level design
 
-A description of the development and theoretical background of “Blub’s Adventure” can be found in the project report “Blub’s Adventure – an Educational Android Application Teaching Numeracy”. A complete gameplay walkthrough can be found in [this playlist]( https://www.youtube.com/playlist?list=PLx037SnxNn8neuPhdR_PWuka9DNtJm4iR). Further, the project files and game build can be found on [GitHub](https://github.com/Mauri2070/Blubs-Abenteuer).
+A description of the development and theoretical background of “Blub’s Adventure” can be found in the project report “Blub’s Adventure – an Educational Android Application Teaching Numeracy”. A complete gameplay walkthrough can be found in [this playlist](https://www.youtube.com/playlist?list=PLx037SnxNn8neuPhdR_PWuka9DNtJm4iR). Further, the project files and game build can be found on [GitHub](https://github.com/Mauri2070/Blubs-Abenteuer).
 
 Used technology: Unity, C#, Davinci Resolve
 
