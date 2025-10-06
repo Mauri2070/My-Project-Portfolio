@@ -9,16 +9,17 @@ This section describes the games I made during my informatics studies at the Tec
 In my bachelor's degree, I participated in the practical course “IT-based learning,” where I developed the Serious Game “Pick2Program” with three others. The game is an Android app that teaches children the basics of computational thinking. Players must find their way through increasingly complex mazes by writing short programs using an intuitive symbol language. The programs are input by taking photos of the symbols.
 
 My tasks in the development of “Pick2Program” were:
--	Development of the symbol language
--	Implementation of the parser that validated the programs users wrote based on the input tokens generated from image recognition.
--	Implementation of parts of player movement logic
--	Parts of the game design
--	Testing and bug fixing
+
+* Development of the symbol language
+* Implementation of the parser that validated the programs users wrote based on the input tokens generated from image recognition.
+* Implementation of parts of the player movement logic
+* Parts of the game design
+* Testing and bug fixing
 
 The development and evaluation of “Pick2Program” was discussed by our course supervisors in a paper published in the 2020 IEEE Global Engineering Education Conference (EDUCON) and is available [here](https://ieeexplore.ieee.org/document/9125087) (subscription required).
 A short trailer I cut for internal use can be found [here](https://youtu.be/16qAvqvi_5Q).
 
-Used technology: Android Studio, Java, libGDX 
+Used technology: Android Studio, Java, libGDX
 
 ### QUAD
 
@@ -26,7 +27,7 @@ In my Bachelor’s Thesis, I developed a quiz game for Android-based mobile devi
 
 The multiplayer component is implemented using [Ubi-Interact](https://github.com/SandroWeber/ubi-interact), a NodeJS-based plugin for Unity developed by Sandro Weber at TUM. I also participated in fixing some bugs in the plugin I encountered during my development.
 
-The development and theoretical background of “QUAD” can be found in my Bachelor’s Thesis “Development of a Quiz-App for Mobile Devices to use with Dementia Patients”. Further [this video](https://youtu.be/ph4A03Z5iBM) demonstrated how to use “QUAD”.
+The development and theoretical background of “QUAD” can be found in my Bachelor’s Thesis “Development of a Quiz-App for Mobile Devices to use with Dementia Patients”. Further, [this video](https://youtu.be/ph4A03Z5iBM) demonstrated how to use “QUAD”.
 
 Used technology: Unity, C#, Ubi-Interact (NodeJS-based multiplayer plugin for Unity, developed at TUM), Davinci Resolve
 
@@ -40,40 +41,41 @@ Used technology: Unity, C#, Davinci Resolve
 
 ### Blub’s Adventure
 
-“Blub’s Adventure” (German name: Blubs Abenteuer) is a serious game for preschool children available for Android and Windows. It aims to teach them the connection between number values and their Arabic representation and basic calculations using addition and subtraction. I developed the game with [Maximilian Anzinger](https://github.com/MaximilianAnzinger) for the interdisciplinary project with educational psychology we had to do for our Master’s Degree. The development was supervised by the [research team]( https://www.psy.lmu.de/ffp_en/persons/ag-niklas/index.html) of Prof. Dr. Frank Niklas, professor for Educational Psychology and Family Studies at the University of Munich (LMU).
+“Blub’s Adventure” (German name: Blubs Abenteuer) is a serious game for preschool children available for Android and Windows. It aims to teach them the connection between number values and their Arabic representation, and basic calculations using addition and subtraction. I developed the game with [Maximilian Anzinger](https://github.com/MaximilianAnzinger) for the interdisciplinary project with educational psychology we had to do for our Master’s Degree. The development was supervised by the [research team](https://www.psy.lmu.de/ffp_en/persons/ag-niklas/index.html) of Prof. Dr. Frank Niklas, professor for Educational Psychology and Family Studies at the University of Munich (LMU).
 
 My tasks in the development of “Blub’s Adventure” were:
--	All gameplay and UI programming
--	Implementation of cutscene videos into Unity
--	Design and implementation of additional help systems
--	Parts of the game design
--	Parts of the level design
+
+* All gameplay and UI programming
+* Implementation of cutscene videos into Unity
+* Design and implementation of additional help systems
+* Parts of the game design
+* Parts of the level design
 
 A description of the development and theoretical background of “Blub’s Adventure” can be found in the project report “Blub’s Adventure – an Educational Android Application Teaching Numeracy”. A complete gameplay walkthrough can be found in [this playlist](https://www.youtube.com/playlist?list=PLx037SnxNn8neuPhdR_PWuka9DNtJm4iR). Further, the project files and game build can be found on [GitHub](https://github.com/Mauri2070/Blubs-Abenteuer).
 
 Used technology: Unity, C#, Davinci Resolve
 
-### Robody in the Hospital
+### Robody at the Hospital
 
-“Robody in the Hospital” (German name: Robody im Krankenhaus) is a Serious Game I’m developing for my Master’s Thesis. It is an interactive story game introducing the care robot “Robody” and his capabilities in the use case scenario of a hospital.
+“Robody at the Hospital” (German name: Robody im Krankenhaus) is a Serious Game I developed for my Master’s Thesis. It is an interactive story game introducing the care robot “Robody” and its capabilities in the use case scenario of a hospital.
 
-Further information will be added after the completion of the thesis (eta June 2025).
-
-Used technology: Unity, C#, Blender, Inkscape, Audacity, Davinci Resolve
-
-### Bonus program for Nurses (WIP)
-
-I'm developing the bonus program for my Master’s Thesis. It consist of an app to manage points and spend them for rewards and an app about self hypnosis for earning points.
-
-Further information will be added after the completion of the thesis (eta June 2025).
+Further information will be added soon.
 
 Used technology: Unity, C#, Blender, Inkscape, Audacity, Davinci Resolve
 
-### Osteoarthritis App (WIP)
+### Bonus program for Nurses
 
-The “Osteoarthritis App” (working title) is a Serious Game I’m developing for my Master’s Thesis. It will teach players about osteoarthritis prevention.
+I developed a bonus program for nurses (German "Bonusprogramm für Pflegekräfte", BfP) for my Master’s Thesis. It consists of an app to manage points and spend them for rewards, and an app about self-hypnosis for earning points.
 
-Further information will be added after the completion of the thesis (eta June 2025).
+Further information will be added soon.
+
+Used technology: Unity, C#, Blender, Inkscape, Audacity, Davinci Resolve
+
+### ArthroTour
+
+ArthroTour is a Serious Game I developed for my Master’s Thesis. It teaches players about osteoarthritis.
+
+Further information will be added soon.
 
 Used technology: Unity, C#, Blender, Inkscape, Audacity, Davinci Resolve
 
@@ -83,7 +85,7 @@ This section describes the private game projects I developed for fun for my fami
 
 ### PongPong
 
-“PongPong” is a modern clone of the original Pong game for PC. It features gameplay against the AI in four different difficulty levels and local multiplayer. Further, different ball and paddle shapes and colors can be chosen. Additionally, three special modes can be combined: In “Where’s the ball?” the side of the play area with the ball is hidden, so players have to anticipate where the ball will move. “Slow mode” will slow down the gameplay, and “Additional blocker” will add an automatically moving paddle in the middle of the play area. Finally, the game lets the player import their music for background music.
+“PongPong” is a modern clone of the original Pong game for PC. It features gameplay against the AI in four different difficulty levels and local multiplayer. Further, different ball and paddle shapes and colors can be chosen. Additionally, three special modes can be combined: In “Where’s the ball?”, the side of the play area with the ball is hidden, so players have to anticipate where the ball will move. “Slow mode” will slow down the gameplay, and “Additional blocker” will add an automatically moving paddle in the middle of the play area. Finally, the game lets the player import their music for background music.
 
 Used technology: Unity, C#
 
@@ -101,6 +103,7 @@ Used technology: Unity, C#, Pixel Studio
 
 ### Welder Run
 
-“Welder Run” is a 2D sidescrolling endless runner for PC. The goal is to collect welding tools to gather points while avoiding obstacles.
+“Welder Run” is a 2D side-scrolling endless runner for PC. The goal is to collect welding tools to gather points while avoiding obstacles.
 
 Used technology: Unity, C#, Pixel Studio
+
