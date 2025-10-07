@@ -79,9 +79,37 @@ Further information will be added soon.
 
 Used technology: Unity, C#, Blender, Inkscape, Audacity, Davinci Resolve
 
+## How I learned game development: GameDev.tv course projects
+
+This section describes the game projects I completed to learn game development following online courses from [GameDev.tv](https://www.gamedev.tv/). For some projects, I just followed along, for others, I added additional features and levels on my own.
+
+### Jacky Abenteuer (Text101)
+
+I started learning Unity using the “Complete C# Unity 2D Game Developer” course by GameDev.tv. Part of this course was the “Text101” text adventure game. “Jackys Abenteuer” (engl. Jacky’s Adventure) is my version of this game featuring my own, Halloween-themed story. You can play the game on [itch.io](https://mauri2070.itch.io/jackys-abenteuer) (German only!).
+
+Used technologies: Unity, C#
+
+### Glitch Garden
+
+I started learning Unity using the “Complete C# Unity 2D Game Developer” course by GameDev.tv. Part of this course was “Glitch Garden”, a “Plants vs. Zombies”-like tower defense game. You can get an idea of the game in [this video](https://youtu.be/sqAD9AIDnsM).
+
+Used technologies: Unity, C#
+
+### Laser Defender
+
+I started learning Unity using the “Complete C# Unity 2D Game Developer” course by GameDev.tv. Part of this course was “Laser Defender”, a bullet-hell shooter inspired by the classic “Space Invaders” game. You can get an idea of the game in [this video](https://youtu.be/W02YLL82mfQ).
+
+Used technologies: Unity, C#
+
+### Block Breaker
+
+I started learning Unity using the “Complete C# Unity 2D Game Developer” course by GameDev.tv. “Block Breaker” was part of this course. You can play my version of the game on [itch.io](https://mauri2070.itch.io/block-breaker) (German only!). It features additional levels and input options.
+
+Used technologies: Unity, C#
+
 ## Private Game Projects
 
-This section describes the private game projects I developed for fun for my family and friends. Sample images can be found in “PrivateProjectsOverview.pdf”.
+This section describes the private game projects I developed for fun for my family and friends.
 
 ### PongPong
 
@@ -91,7 +119,7 @@ Used technology: Unity, C#
 
 ### JumpJump
 
-“JumpJump” is a small 2D game for PC. The twist of the game is the controls. The player can only decide on one direction – left, right, or up – and determine the jump strength by holding a button down. The goal is to navigate through the level and collect as many points as possible, either in a limited time (60 or 120 seconds) or by reaching the goal as fast as possible. Scores are saved in a local scoreboard per category.
+“JumpJump” is a small 2D platformer game for PC. The twist of the game is the controls. The player can only decide on one direction – left, right, or up – and determine the jump strength by holding down a button. The goal is to navigate through the level and collect as many points as possible, either in a limited time (60 or 120 seconds) or by reaching the goal as fast as possible. Scores are saved in a local scoreboard per category. You can play the game on [itch.io](https://mauri2070.itch.io/jumpjump) (German only!).
 
 Used technology: Unity, C#
 
@@ -103,7 +131,14 @@ Used technology: Unity, C#, Pixel Studio
 
 ### Welder Run
 
-“Welder Run” is a 2D side-scrolling endless runner for PC. The goal is to collect welding tools to gather points while avoiding obstacles.
+“Schweißer Lauf” (Engl. Welder Run) is a 2D side-scrolling endless runner for PC. The goal is to collect welding tools to gather points while avoiding obstacles. Pixelart was created by me as well. You can play the game on [itch.io](https://mauri2070.itch.io/schweisser-lauf )(German only, but language is not important for this game).
 
 Used technology: Unity, C#, Pixel Studio
 
+## Game Jam Projects
+
+This section describes the game projects I developed for Game Jams.
+
+### Inventory Horror
+
+Information coming soon. See the [itch.io page](https://mauri2070.itch.io/inventory-horror) in the meantime.
