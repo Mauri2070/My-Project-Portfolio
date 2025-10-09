@@ -25,7 +25,7 @@ Used technology: Android Studio, Java, libGDX
 
 In my Bachelor’s Thesis, I developed a quiz game for Android-based mobile devices called “QUAD”. It is a Serious Game specifically designed for older adults with Dementia. “QUAD” is designed as a group activity where a game master (e.g., a nursing home caregiver) presents different questions to the audience. Multiple devices can connect to the game master to answer the question based on four possible answers. The game’s concept and design are oriented on popular German TV quiz shows like “Wer wird Millionär?”. Using questions focusing on topics among nursing home residents, the goal of “QUAD” is to let Dementia patients reminisce and talk about their past experiences to smaller their loneliness, a frequent consequence of Dementia.
 
-The multiplayer component is implemented using [Ubi-Interact](https://github.com/SandroWeber/ubi-interact), a NodeJS-based plugin for Unity developed by Sandro Weber at TUM. I also participated in fixing some bugs in the plugin I encountered during my development.
+The multiplayer component is implemented using [Ubi-Interact](https://github.com/SandroWeber/ubi-interact), a NodeJS-based plugin for Unity developed by [Sandro Weber](https://github.com/SandroWeber) at TUM. I also participated in fixing some bugs in the plugin I encountered during my development.
 
 The development and theoretical background of “QUAD” can be found in my Bachelor’s Thesis “Development of a Quiz-App for Mobile Devices to use with Dementia Patients”. Further, [this video](https://youtu.be/ph4A03Z5iBM) demonstrated how to use “QUAD”.
 
@@ -41,7 +41,7 @@ Used technology: Unity, C#, Davinci Resolve
 
 ### Blub’s Adventure
 
-“Blub’s Adventure” (German name: Blubs Abenteuer) is a serious game for preschool children available for Android and Windows. It aims to teach them the connection between number values and their Arabic representation, and basic calculations using addition and subtraction. I developed the game with [Maximilian Anzinger](https://github.com/MaximilianAnzinger) for the interdisciplinary project with educational psychology we had to do for our Master’s Degree. The development was supervised by the [research team](https://www.psy.lmu.de/ffp_en/persons/ag-niklas/index.html) of Prof. Dr. Frank Niklas, professor for Educational Psychology and Family Studies at the University of Munich (LMU).
+“Blub’s Adventure” (German name: Blubs Abenteuer) is a serious game for preschool children available for Android and Windows. It aims to teach them the connection between number values and their Arabic representation, and basic calculations using addition and subtraction. I developed the game with [Maximilian Anzinger](https://github.com/MaximilianAnzinger) for the interdisciplinary project with educational psychology we had to do for our Master’s Degree. The development was supervised by the [research team of Prof. Dr. Frank Niklas](https://www.psy.lmu.de/ffp_en/persons/ag-niklas/index.html), professor for Educational Psychology and Family Studies at the University of Munich (LMU).
 
 My tasks in the development of “Blub’s Adventure” were:
 
@@ -86,7 +86,7 @@ Used technology: Unity, C#, Blender, Inkscape, Audacity, Davinci Resolve
 
 This section describes the game projects I completed to learn game development following online courses from [GameDev.tv](https://www.gamedev.tv/). For some projects, I just followed along, for others, I added additional features and levels on my own. The games are presented in arbitrary order.
 
-### Jacky Abenteuer (Text101)
+### Jackys Abenteuer (Text101)
 
 I started learning Unity using the “Complete C# Unity 2D Game Developer” course by GameDev.tv. Part of this course was the “Text101” text adventure game, where you can choose what happens next in the story. “Jackys Abenteuer” (engl. Jacky’s Adventure) is my version of this game featuring my own, Halloween-themed story. 
 
