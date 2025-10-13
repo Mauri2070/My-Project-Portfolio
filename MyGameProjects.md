@@ -51,7 +51,7 @@ My tasks in the development of “Blub’s Adventure” were:
 * Parts of the game design
 * Parts of the level design
 
-A description of the development and theoretical background of “Blub’s Adventure” can be found in the project report “Blub’s Adventure – an Educational Android Application Teaching Numeracy”. A complete gameplay walkthrough can be found in [this playlist](https://www.youtube.com/playlist?list=PLx037SnxNn8neuPhdR_PWuka9DNtJm4iR). Further, the project files and game build can be found on [GitHub](https://github.com/Mauri2070/Blubs-Abenteuer).
+A description of the development and theoretical background of “Blub’s Adventure” can be found in the project report “Blub’s Adventure – an Educational Android Application Teaching Numeracy”. A complete gameplay walkthrough can be found in [this playlist](https://www.youtube.com/playlist?list=PLx037SnxNn8neuPhdR_PWuka9DNtJm4iR). Further, the project files and game build can be found on [GitHub](https://github.com/Mauri2070/Blubs-Abenteuer) or you can download the game from [itch.io](https://mauri2070.itch.io/blubs-abenteuer).
 
 Used technology: Unity, C#, Davinci Resolve
 
