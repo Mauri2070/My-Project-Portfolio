@@ -33,7 +33,7 @@ Used technology: Unity, C#, Ubi-Interact (NodeJS-based multiplayer plugin for Un
 
 ### Color Jump 3D
 
-![ColorJump 3D](./pictures/games/ColorJump3d.png)
+![Color Jump 3D](./pictures/games/ColorJump3d.png)
 
 “Color Jump 3D” is a 3D puzzle platformer I developed for the “Introduction to Informatics for Games Engineering” lecture within one day. The player must solve four jump-and-run challenges while finding the right color to solve those riddles.
 
@@ -42,6 +42,9 @@ You can find demo videos in [this playlist](https://youtube.com/playlist?list=PL
 Used technology: Unity, C#, Davinci Resolve
 
 ### Blub’s Adventure
+
+![Blubs Abenteuer 1](./pictures/games/Blub1.png)
+![Blubs Abenteuer 2](./pictures/games/Blub2.png)
 
 “Blub’s Adventure” (German name: Blubs Abenteuer) is a serious game for preschool children available for Android and Windows. It aims to teach them the connection between number values and their Arabic representation, and basic calculations using addition and subtraction. I developed the game with [Maximilian Anzinger](https://github.com/MaximilianAnzinger) for the interdisciplinary project with educational psychology we had to do for our Master’s Degree. The development was supervised by the [research team of Prof. Dr. Frank Niklas](https://www.psy.lmu.de/ffp_en/persons/ag-niklas/index.html), professor for Educational Psychology and Family Studies at the University of Munich (LMU).
 
@@ -59,6 +62,8 @@ Used technology: Unity, C#, Davinci Resolve
 
 ### Robody at the Hospital
 
+![Robody im Krankenhaus](./pictures/games/RiK.png)
+
 Robody is a care robot developed by [Devanthro](https://www.devanthro.com/) with the goal to support nurses with their tasks and allow relatives to remotely visit patients if visits in person are impossible. Part of my Master’s Thesis “Improving Hospital Care by Developing Serious Games” was to improve the acceptance of Robody, because this is often an issue with care robots. “Robody im Krankenhaus” (Engl. Robody at the hospital) is a story-focused serious game introducing the robot to hospital patients, relatives, and nurses.
 
 The game can be found on [GitHub](https://github.com/Mauri2070/Master-s-Thesis-Improving-Hospital-Care-by-Developing-Serious-Games) (German only!) and [this playlist](https://youtube.com/playlist?list=PLx037SnxNn8kCbP_UTHicramWIrKc6Bpw&si=vStL8Y4KXfBm85TS) contains videos of the game. If you are interested in the full-text of my thesis, please contact me directly: [georgm.henning@gmx.de](mailto:georgm.henning@gmx.de)
@@ -66,6 +71,9 @@ The game can be found on [GitHub](https://github.com/Mauri2070/Master-s-Thesis-I
 Used technology: Unity, C#, Blender, Inkscape, Audacity, Davinci Resolve
 
 ### Bonus program for Nurses
+
+![BfP - Bonusprogramm](./pictures/games/BfP_Bonusprogram.png)
+![BfP - Selbsthypnose](./pictures/games/BfP_Hypnose.png)
 
 Stress is one of the most common problems of nurses, and (self-)hypnosis may be a potential solution to better cope with it. As part of my Master’s Thesis “Improving Hospital Care by Developing Serious Games,” I developed a bonus program for nurses consisting of multiple apps. A central app allows users to collect points with activities in other apps or the real world, and spend them for in-app or real-world rewards to increase motivation for healthy behavior. An example app for the program teaches its users self-hypnosis. Finally, the third app generates compatible QR codes used for real-world app interactions.
 
@@ -76,6 +84,8 @@ Additionally, a standalone version of the self-hypnosis app can be found on the 
 Used technology: Unity, C#, Blender, Inkscape, Audacity, Davinci Resolve
 
 ### ArthroTour
+
+![ArthroTour](./pictures/games/ArthroTour.png)
 
 Osteoarthritis is the economically most important disease of the musculoskeletal system, and there is no known cure for it. This makes prevention especially important. As part of my Master’s Thesis “Improving Hospital Care by Developing Serious Games,” I developed the serious game “ArthroTour” that educates the players about osteoarthritis. Information is provided during a short story, before it is repeated in a quiz.
 
@@ -98,6 +108,8 @@ Used technologies: Unity, C#
 
 ### Glitch Garden
 
+![Glitch Garden](./pictures/games/GlitchGarden.png)
+
 I started learning Unity using the “Complete C# Unity 2D Game Developer” course by GameDev.tv. Part of this course was “Glitch Garden”, a “Plants vs. Zombies”-like tower defense game. The game features different levels with increasing difficulty and available “towers”. 
 
 You can get an idea of the game in [this video](https://youtu.be/sqAD9AIDnsM).
@@ -106,6 +118,8 @@ Used technologies: Unity, C#
 
 ### Laser Defender
 
+![Laser Defender](./pictures/games/LaserDefender.png)
+
 I started learning Unity using the “Complete C# Unity 2D Game Developer” course by GameDev.tv. Part of this course was “Laser Defender”, a bullet-hell shooter inspired by the classic “Space Invaders” game. Enemies appear in predefined waves that loop until the player loses their final life. 
 
 You can get an idea of the game in [this video](https://youtu.be/W02YLL82mfQ).
@@ -113,6 +127,8 @@ You can get an idea of the game in [this video](https://youtu.be/W02YLL82mfQ).
 Used technologies: Unity, C#
 
 ### Block Breaker
+
+![Block Breaker](./pictures/games/BlockBreaker.png)
 
 I started learning Unity using the “Complete C# Unity 2D Game Developer” course by GameDev.tv. “Block Breaker” was part of this course. The goal of this game is to destroy blocks by guiding a bouncing ball with a paddle. “Block Breaker” features multiple levels with different block layouts. In my version, I added keyboard controls with adaptable sensitivity to the initial mouse-only input, an autoplay option, and a level selection. 
 
@@ -126,6 +142,8 @@ This section describes the private game projects I developed for fun for my fami
 
 ### PongPong
 
+![PongPong](./pictures/games/PongPong.png)
+
 “PongPong” is a modern clone of the original Pong game for PC. It features gameplay against the AI in four different difficulty levels and local multiplayer. Further, different ball and paddle shapes and colors can be chosen. Additionally, three special modes can be activated: In “Where’s the ball?”, the side of the play area with the ball is hidden, so players have to anticipate where the ball will move. “Slow mode” will slow down the gameplay, and “Additional blocker” will add an automatically moving paddle in the middle of the play area. Finally, the game lets the player import their own music to be played as background music. 
 
 You can download the game from [itch.io](https://mauri2070.itch.io/pongpong) (German only!).
@@ -133,6 +151,8 @@ You can download the game from [itch.io](https://mauri2070.itch.io/pongpong) (Ge
 Used technology: Unity, C#
 
 ### JumpJump
+
+![JumpJump](./pictures/games/JumpJump.png)
 
 “JumpJump” is a small 2D platformer game for PC. The twist of the game is the controls. The player can only decide on one direction – left, right, or up – and determine the jump strength by holding down a button. The goal is to navigate through the level and collect as many points as possible, either in a limited time (60 or 120 seconds) or by reaching the goal as fast as possible. Scores are saved in a local leaderboard per category.
 
@@ -142,6 +162,8 @@ Used technology: Unity, C#
 
 ### Decorate the Christmas Tree
 
+![Schmück den Weihnachtsbaum](./pictures/games/SchmueckDenWeihnachtsbaum.png)
+
 “Decorate the Christmas Tree” is a 2D game for PC and Android where the player must move a Christmas tree left and right to collect falling baubles. The game ends when too many baubles hit the ground. The difficulty increases over time when baubles start to spawn and fall faster. I developed the game on my own, including the pixel art. 
 
 You can download the game from [itch.io](https://mauri2070.itch.io/schmueck-den-weihnachtsbaum) (German only!).
@@ -149,6 +171,8 @@ You can download the game from [itch.io](https://mauri2070.itch.io/schmueck-den-
 Used technology: Unity, C#, Pixel Studio
 
 ### Welder Run
+
+![Schweißer Lauf](./pictures/games/Schweisserlauf.png)
 
 “Schweißer Lauf” (Engl. Welder Run) is a 2D side-scrolling endless runner for PC. The goal is to collect welding tools to gather points while avoiding obstacles. The pixel art was created by me as well. 
 
@@ -162,6 +186,8 @@ This section describes the game projects I developed for Game Jams.
 
 ### Inventory Horror
 
+![Inventory Horror](./pictures/games/InventoryHorror.png)
+
 “Inventory Horror” is my submission to the “GMTK Game Jam 2025”, the first game jam I ever participated in. Within less than four days, I completed this game as a solo developer without the help of AI. 
 In “Inventory Horror,” you explore a dungeon to collect different resources, buy upgrades, and finally escape the place. In the first place, it is an inventory-management and automation game. However, through purposely missing quality-of-life features, the gameplay becomes terrifying over time, which, combined with the spooky environments and sounds, makes the game fit its title. Further, the heavily looping gameplay matches the game jam’s theme: loop. The game was received well and described as fun to play by game jam reviewers, who mainly criticized the missing tutorial.
 
@@ -170,6 +196,8 @@ You may download “Inventory Horror” from [itch.io](https://mauri2070.itch.io
 Used technology: Unity, C#
 
 ### Candy Hunt
+
+![Candy Hunt](./pictures/games/CandyHunt.png)
 
 “Candy Hunt” is my submission to the “GameDevTV October/Halloween Jam 2025”. While the Jam was 10 days long, I had to complete my submission as a solo developer in only about 2.5 days due to other responsibilities. Further, only provided or free assets could be used in this jam.
 
