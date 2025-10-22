@@ -33,6 +33,8 @@ Used technology: Unity, C#, Ubi-Interact (NodeJS-based multiplayer plugin for Un
 
 ### Color Jump 3D
 
+![ColorJump 3D](./pictures/games/ColorJump3d.png)
+
 “Color Jump 3D” is a 3D puzzle platformer I developed for the “Introduction to Informatics for Games Engineering” lecture within one day. The player must solve four jump-and-run challenges while finding the right color to solve those riddles.
 
 You can find demo videos in [this playlist](https://youtube.com/playlist?list=PLx037SnxNn8nyD2VVBRrMAa-_YPoUhja-&si=zYDj_mj23EPdhrHY) or download the game from [itch.io](https://mauri2070.itch.io/color-jump-3d).
@@ -166,3 +168,13 @@ In “Inventory Horror,” you explore a dungeon to collect different resources,
 You may download “Inventory Horror” from [itch.io](https://mauri2070.itch.io/inventory-horror).
 
 Used technology: Unity, C#
+
+### Candy Hunt
+
+“Candy Hunt” is my submission to the “GameDevTV October/Halloween Jam 2025”. While the Jam was 10 days long, I had to complete my submission as a solo developer in only about 2.5 days due to other responsibilities. Further, only provided or free assets could be used in this jam.
+
+Following the visual inspiration of the game jam – the picture of an old tube TV – the gameplay of “Candy Hunt takes place on that TV. The player controls the death, dodging obstacles, skeletons, and giant bats, while collecting candy and using it to beat the enemies. From the two optional themes of the game jam, I selected “A helpful feature that turns against you”. Therefore, attacking enemies requires candy as ammunition. However, every time the player collects candy on the TV, the room fills with even more candy, slowly filling up the room and blocking the view to the gameplay, eventually making it impossible to continue and leading to a game over.
+
+You may play “Candy Hunt” on [itch.io](https://mauri2070.itch.io/candy-hunt) or watch a [gameplay video](https://youtu.be/K60D5nanc84).
+
+Used technology: Unity, C#, Inkscape
