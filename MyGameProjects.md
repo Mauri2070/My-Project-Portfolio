@@ -4,13 +4,13 @@
 
 This section describes the games I developed during my informatics studies at the Technical University of Munich (TUM). They are presented in the order I worked on them.
 
-### Pick2Program
+### Pic2Program
 
-![Pic2Program Example](./pictures/games/Pick2Learn.png)
+![Pic2Program Example](./pictures/games/Pic2Learn.png)
 
-In my bachelor's degree, I participated in the practical course “IT-based learning,” where I developed the Serious Game “Pick2Program” with three fellow students within one semester. The game is an Android app that teaches children the basics of computational thinking. Players must find their way through increasingly complex mazes by writing short programs using an intuitive symbol language. The programs are input by taking photos of the symbols.
+In my bachelor's degree, I participated in the practical course “IT-based learning,” where I developed the Serious Game “Pic2Program” with three fellow students within one semester. The game is an Android app that teaches children the basics of computational thinking. Players must find their way through increasingly complex mazes by writing short programs using an intuitive symbol language. The programs are input by taking photos of the symbols.
 
-My tasks in the development of “Pick2Program” were:
+My tasks in the development of “Pic2Program” were:
 
 * Development of the symbol language
 * Implementation of the parser that validated the programs users wrote based on the input tokens generated from image recognition.
@@ -21,7 +21,7 @@ My tasks in the development of “Pick2Program” were:
 
 The project helped me learn how to work with a team (general communication, git) and how to adapt my skills to new areas/technologies (Android Studio, libGDX).
 
-The development and evaluation of “Pick2Program” was discussed by our course supervisors in a paper published in the 2020 IEEE Global Engineering Education Conference (EDUCON) and is available [here](https://ieeexplore.ieee.org/document/9125087) (subscription required).
+The development and evaluation of “Pic2Program” was discussed by our course supervisors in a paper published in the 2020 IEEE Global Engineering Education Conference (EDUCON) and is available [here](https://ieeexplore.ieee.org/document/9125087) (subscription required).
 A short trailer I cut for internal use can be found [here](https://youtu.be/16qAvqvi_5Q) (when watching, please keep in mind that this is the first video I ever edited).
 
 Used technology: Android Studio, Java, libGDX
