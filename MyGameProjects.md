@@ -29,7 +29,7 @@ Used technology: Android Studio, Java, libGDX
 ### QUAD
 
 ![QUAD Example 1](./pictures/games/QUAD_1.png)
-![QUAD Example 2](./pictures/games/QUAD_1.png)
+![QUAD Example 2](./pictures/games/QUAD_2.png)
 
 In my Bachelor’s Thesis, I developed a quiz game for Android-based mobile devices called “QUAD”. It is a Serious Game specifically designed for older adults with Dementia. “QUAD” is designed as a group activity where a game master (e.g., a nursing home caregiver) presents different questions to the audience. Multiple devices can connect to the game master to answer the question based on four possible answers. The game’s concept and design are oriented on popular German TV quiz shows like “Wer wird Millionär?”. Using questions focusing on topics popular among nursing home residents, the goal of “QUAD” is to let Dementia patients reminisce and talk about their past experiences to smaller their loneliness, a frequent consequence of Dementia.
 
