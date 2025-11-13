@@ -155,6 +155,20 @@ You can download my version from [itch.io](https://mauri2070.itch.io/block-break
 
 Used technologies: Unity, C#
 
+## How I learned game development with Unreal: GameDev.tv course projects
+
+This section describes the game projects I completed to learn the basics of Unreal, following online courses from [GameDev.tv](https://www.gamedev.tv/).
+
+### UE5 C++ Developer Course
+
+I used this online course to learn the basics of the Unreal Engine, including Actors, Pawns, Blueprints, etc.
+
+The course contained five games: Warehouse Wreckage, a Blueprints-only game, where you throw a ball at barrels in the scene to knock them over. Obstacle Assault, a simple 3D platformer. Crypt Raider, a 3D puzzle adventure game. Toon Tanks, a third-person shooter with tanks and simple enemy turret AI. Simple Shooter, another third-person shooter with more advanced enemy AI behavior. 
+
+You can find a compilation of the games in [this video](https://youtu.be/wJVMuZiYd08).
+
+Used technologies: Unreal, C++
+
 ## Private Game Projects
 
 This section describes the private game projects I developed solo for fun for my family and friends. They are presented in arbitrary order.
@@ -238,3 +252,13 @@ For this game jam, I learned to develop with Unity for WebGL.
 You may play “Candy Hunt” on [itch.io](https://mauri2070.itch.io/candy-hunt) or watch a [gameplay video](https://youtu.be/K60D5nanc84).
 
 Used technology: Unity, C#, Inkscape
+
+### Unity Timeless Tetris
+
+![Candy Hunt](./pictures/games/UTT_1.png)
+
+"Unity Timeless Tetris" is my submission to the "Unity 20th Anniversary Game Jam" (2025). Within about 6-7 hours, I completed this horizontal version of Tetris, which allows the player to change the direction of time and relocate blocks in the opposite direction. All assets used were provided by Unity for the game jam. 
+
+You may play "Unity Timeless Tetris" on [itch.io](https://mauri2070.itch.io/utt), where you can also read how the game fits the "Timeless" topic of the jam. Further, you can watch a [gameplay video on YouTube](https://youtu.be/lzzmTT2IhRE).
+
+Used technologies: Unity, C#
