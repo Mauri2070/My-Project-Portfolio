@@ -255,10 +255,20 @@ Used technology: Unity, C#, Inkscape
 
 ### Unity Timeless Tetris
 
-![Candy Hunt](./pictures/games/UTT_1.png)
+![Unity Timeless Tetris](./pictures/games/UTT_1.png)
 
 "Unity Timeless Tetris" is my submission to the "Unity 20th Anniversary Game Jam" (2025). Within about 6-7 hours, I completed this horizontal version of Tetris, which allows the player to change the direction of time and relocate blocks in the opposite direction. All assets used were provided by Unity for the game jam. 
 
 You may play "Unity Timeless Tetris" on [itch.io](https://mauri2070.itch.io/utt), where you can also read how the game fits the "Timeless" topic of the jam. Further, you can watch a [gameplay video on YouTube](https://youtu.be/lzzmTT2IhRE).
+
+Used technologies: Unity, C#
+
+### We didn't (m)ask much of you!!!
+
+![We didn't (m)ask much of you!!!](./pictures/games/Wdmmoy.png)
+
+"We didn't (m)ask much of you!!!" is the game I worked on for the "Global Game Jam 2026". Starting Friday evening with brainstorming and teambuilding in the "Gamerei" in Munich, the jam lasted until Sunday afternoon. While I was responsible for programming and in-engine setup, my teammates [Simon Waldschütz](https://www.artstation.com/simon_waldschuetz) and [Tim Sommer](https://www.linkedin.com/in/tim-sommer-ft/) created the assets for the game. 
+
+You may download the game from the [GGJ Website](https://globalgamejam.org/games/2026/we-don-1) in its original version or play it on [itch.io](https://mauri2070.itch.io/we-didnt-mask-much-of-you) with minor bugfixes and QoL improvements.
 
 Used technologies: Unity, C#
