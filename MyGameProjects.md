@@ -279,6 +279,8 @@ Used technologies: Unity, C#
 
 "We didn't (m)ask much of you!!!" is the game I worked on for the "Global Game Jam 2026". Starting Friday evening with brainstorming and teambuilding in the "Gamerei" in Munich, the jam lasted until Sunday afternoon. While I was responsible for programming and in-engine setup, my teammates [Simon Waldschütz](https://www.artstation.com/simon_waldschuetz) and [Tim Sommer](https://www.linkedin.com/in/tim-sommer-ft/) created the assets for the game, and [Alec Shea](https://www.linkedin.com/in/alecsheamusic/) helped us out with SFX and music. 
 
+"We didn't (m)ask much of you!!!" is a top down jump n' run game about robbers who are onto the perfect heist. Everything was planned to the last minute detail. However, there is one small issue. You forgot your mask! Now it's your job to find the right mask for the right job before the police arrive.
+
 You may download the game from the [GGJ Website](https://globalgamejam.org/games/2026/we-don-1) in its original version or play it on [itch.io](https://mauri2070.itch.io/we-didnt-mask-much-of-you) with minor bugfixes and QoL improvements.
 
 Used technologies: Unity, C#
