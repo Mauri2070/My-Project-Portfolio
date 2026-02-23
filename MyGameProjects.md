@@ -168,11 +168,12 @@ This section describes the game projects I completed to learn the basics of Unre
 I used this online course to learn the basics of the Unreal Engine, including Actors, Pawns, Blueprints, etc.
 
 The course contained five games: 
-	- Warehouse Wreckage, a Blueprints-only game, where you throw a ball at barrels in the scene to knock them over. 
-	- Obstacle Assault, a simple 3D platformer. 
-	- Crypt Raider, a 3D puzzle adventure game. 
-	- Toon Tanks, a third-person shooter with tanks and simple enemy turret AI. 
-	- Simple Shooter, another third-person shooter with more advanced enemy AI behavior. 
+
+- Warehouse Wreckage, a Blueprints-only game, where you throw a ball at barrels in the scene to knock them over. 
+- Obstacle Assault, a simple 3D platformer. 
+- Crypt Raider, a 3D puzzle adventure game. 
+- Toon Tanks, a third-person shooter with tanks and simple enemy turret AI. 
+- Simple Shooter, another third-person shooter with more advanced enemy AI behavior. 
 
 You can find a compilation of the games in [this video](https://youtu.be/wJVMuZiYd08).
 
