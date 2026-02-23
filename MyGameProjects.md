@@ -47,7 +47,7 @@ Used technology: Unity, C#, Ubi-Interact (NodeJS-based multiplayer plugin for Un
 
 “Color Jump 3D” is a 3D puzzle platformer I developed solo for the “Introduction to Informatics for Games Engineering” lecture within one day. The player must solve four jump-and-run challenges while finding the right color to solve those riddles.
 
-This was the first game I developed "game jam-like", i.e., in a very limited time to a given topic (a basic jump-and-run template was available from the lecture exercise). 
+This was the first game I developed "game jam-like", i.e., in a very limited time to a given topic (a basic jump-and-run template was available from the lecture's exercises). 
 
 You can find demo videos in [this playlist](https://youtube.com/playlist?list=PLx037SnxNn8nyD2VVBRrMAa-_YPoUhja-&si=zYDj_mj23EPdhrHY) or download the game from [itch.io](https://mauri2070.itch.io/color-jump-3d).
 
@@ -111,6 +111,8 @@ For this game, I learned about procedural animations using Unity's Animation & R
 
 The game can be found on [GitHub](https://github.com/Mauri2070/Master-s-Thesis-Improving-Hospital-Care-by-Developing-Serious-Games) (German only!) and [this playlist](https://youtube.com/playlist?list=PLx037SnxNn8kCbP_UTHicramWIrKc6Bpw&si=vStL8Y4KXfBm85TS) contains a video of the game. If you are interested in the full-text of my thesis, please contact me directly: [georgm.henning@gmx.de](mailto:georgm.henning@gmx.de)
 
+Additionally, I wrote a scientific paper about ArthroTour that was accepted for the HCI International 2026. A link will follow as soon as the paper is available online.
+
 Used technology: Unity, C#, Blender, Inkscape, Audacity, DaVinci Resolve
 
 ## How I learned game development with Unity: GameDev.tv course projects
@@ -149,7 +151,9 @@ Used technologies: Unity, C#
 
 ![Block Breaker](./pictures/games/BlockBreaker.png)
 
-I started learning Unity using the “Complete C# Unity 2D Game Developer” course by GameDev.tv. “Block Breaker” was part of this course. The goal of this game is to destroy blocks by guiding a bouncing ball with a paddle. “Block Breaker” features multiple levels with different block layouts. In my version, I added keyboard controls with adaptable sensitivity to the initial mouse-only input, an autoplay option, and a level selection. 
+I started learning Unity using the “Complete C# Unity 2D Game Developer” course by GameDev.tv. “Block Breaker” was part of this course. The goal of this game is to destroy blocks by guiding a bouncing ball with a paddle. “Block Breaker” features multiple levels with different block layouts. 
+
+The course version featured only mouse input. I added keyboard controls with adaptable sensitivity to the game, together with an autoplay option, a level selection and additional levels. 
 
 You can download my version from [itch.io](https://mauri2070.itch.io/block-breaker) (German only!). It features additional levels and input options.
 
@@ -163,7 +167,12 @@ This section describes the game projects I completed to learn the basics of Unre
 
 I used this online course to learn the basics of the Unreal Engine, including Actors, Pawns, Blueprints, etc.
 
-The course contained five games: Warehouse Wreckage, a Blueprints-only game, where you throw a ball at barrels in the scene to knock them over. Obstacle Assault, a simple 3D platformer. Crypt Raider, a 3D puzzle adventure game. Toon Tanks, a third-person shooter with tanks and simple enemy turret AI. Simple Shooter, another third-person shooter with more advanced enemy AI behavior. 
+The course contained five games: 
+	- Warehouse Wreckage, a Blueprints-only game, where you throw a ball at barrels in the scene to knock them over. 
+	- Obstacle Assault, a simple 3D platformer. 
+	- Crypt Raider, a 3D puzzle adventure game. 
+	- Toon Tanks, a third-person shooter with tanks and simple enemy turret AI. 
+	- Simple Shooter, another third-person shooter with more advanced enemy AI behavior. 
 
 You can find a compilation of the games in [this video](https://youtu.be/wJVMuZiYd08).
 
@@ -223,7 +232,7 @@ Used technology: Unity, C#, Pixel Studio
 
 ## Game Jam Projects
 
-This section describes the game projects I developed for Game Jams.
+This section describes the game projects I developed for Game Jams. They are presented in the order I worked on them.
 
 ### Inventory Horror
 
@@ -267,7 +276,7 @@ Used technologies: Unity, C#
 
 ![We didn't (m)ask much of you!!!](./pictures/games/Wdmmoy.png)
 
-"We didn't (m)ask much of you!!!" is the game I worked on for the "Global Game Jam 2026". Starting Friday evening with brainstorming and teambuilding in the "Gamerei" in Munich, the jam lasted until Sunday afternoon. While I was responsible for programming and in-engine setup, my teammates [Simon Waldschütz](https://www.artstation.com/simon_waldschuetz) and [Tim Sommer](https://www.linkedin.com/in/tim-sommer-ft/) created the assets for the game. 
+"We didn't (m)ask much of you!!!" is the game I worked on for the "Global Game Jam 2026". Starting Friday evening with brainstorming and teambuilding in the "Gamerei" in Munich, the jam lasted until Sunday afternoon. While I was responsible for programming and in-engine setup, my teammates [Simon Waldschütz](https://www.artstation.com/simon_waldschuetz) and [Tim Sommer](https://www.linkedin.com/in/tim-sommer-ft/) created the assets for the game, and [Alec Shea](https://www.linkedin.com/in/alecsheamusic/) helped us out with SFX and music. 
 
 You may download the game from the [GGJ Website](https://globalgamejam.org/games/2026/we-don-1) in its original version or play it on [itch.io](https://mauri2070.itch.io/we-didnt-mask-much-of-you) with minor bugfixes and QoL improvements.
 
