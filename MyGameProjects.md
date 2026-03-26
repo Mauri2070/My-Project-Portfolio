@@ -287,4 +287,4 @@ Used technologies: Unity, C#
 
 While learning Unreal Engine, I later ported this game to UE 5. That version is also available on [itch.io](https://mauri2070.itch.io/we-didnt-mask-much-of-you).
 
-# Used technologies: Unreal, C++
+Used technologies: Unreal, C++
