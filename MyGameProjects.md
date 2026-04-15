@@ -281,7 +281,7 @@ Used technologies: Unity, C#
 
 "We didn't (m)ask much of you!!!" is a top down jump n' run game about robbers who are onto the perfect heist. Everything was planned to the last minute detail. However, there is one small issue. You forgot your mask! Now it's your job to find the right mask for the right job before the police arrive.
 
-You may download the game from the [GGJ Website](https://globalgamejam.org/games/2026/we-don-1) in its original version or play it on [itch.io](https://mauri2070.itch.io/we-didnt-mask-much-of-you) with minor bugfixes and QoL improvements.
+You may download the game from the [GGJ Website](https://globalgamejam.org/games/2026/we-don-1) in its original version or play it on [itch.io](https://mauri2070.itch.io/we-didnt-mask-much-of-you) with minor bugfixes and QoL improvements. The project files are available on [GitHub](https://github.com/Mauri2070/GGJ26-Mask).
 
 Used technologies: Unity, C#
 
