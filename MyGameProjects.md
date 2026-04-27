@@ -288,3 +288,13 @@ Used technologies: Unity, C#
 While learning Unreal Engine, I later ported this game to UE 5. That version is also available on [itch.io](https://mauri2070.itch.io/we-didnt-mask-much-of-you).
 
 Used technologies: Unreal, C++
+
+### Democratic Election Idle Tycoon
+
+![Democratic Election Idle Tycoon](./pictures/games/DEIT_Screenshot1.png)
+
+"Democratic Election Idle Tycoon" is the game I developed for the first ever "Munich Game Jam", hosted by the city library (topic "EUtopia - Technology meets Democracy"). I lead a team of five others and myselfe for two days to create this game. It combines classic mobile idle-game mechanics with mini-games and educational questions about the European Union.
+
+You may play or download the game from [itch.io](https://mauri2070.itch.io/democratic-election-idle-tycoon) or watch a gameplay video on [YouTube](https://youtu.be/N1fN6mFUKso). The project files are available on [GitHub](https://github.com/Mauri2070/MunichGameJam2026).
+
+Used technologies: Unity, C#
