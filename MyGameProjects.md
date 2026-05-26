@@ -298,3 +298,15 @@ Used technologies: Unreal, C++
 You may play or download the game from [itch.io](https://mauri2070.itch.io/democratic-election-idle-tycoon) or watch a gameplay video on [YouTube](https://youtu.be/N1fN6mFUKso). The project files are available on [GitHub](https://github.com/Mauri2070/MunichGameJam2026).
 
 Used technologies: Unity, C#
+
+### Battle of the Gods
+
+![Battle of the Gods](./pictures/games/BattleOfTheGods_1.png)
+
+I developed "Battle of the Gods" within the ten days of the "GameDev.TV Game Jam 2026" on my own. It is an auto-battler where you try to win against the army of the gods to bring prosperity and peace to humanity while saving your own soul. While you can chose from the same units as the enemy, your units have a link-effect modifing the stats of enemy units (-> topic "Connections" of the game jam).
+
+In this project, I used the Unity UI Toolkit and Awaitables API for the first time.
+
+You may play or download the game from [itch.io](https://mauri2070.itch.io/battle-of-the-gods) or watch a gameplay video on [YouTube](https://youtu.be/I4oht-A8w8s).
+
+Used technologies: Unity, C#
