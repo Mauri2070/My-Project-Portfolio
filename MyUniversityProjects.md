@@ -34,6 +34,6 @@ The project’s repository is available on [GitHub](https://github.com/Mauri2070
 
 ### Arthro Tour: A Serious Game to Educate About Osteoarthritis
 
-After completing my Master's thesis, my supervisor encouraged me to publish my results. This paper is based on my game ArthroTour (-> see [MyGameProjects](./MyGameProjects.md) for more details). It was published as part of the HCI International 2026 in the [HCI in Games Conference proceedings 2026, part 1](https://link.springer.com/book/10.1007/978-3-032-30405-6)]. I further presented the paper at the conference remotely via Zoom to the live audience in Montreal.
+After completing my Master's thesis, my supervisor encouraged me to publish my results. This paper is based on my game ArthroTour (-> see [My Game Projects](./MyGameProjects.md) for more details). It was published as part of the HCI International 2026 in the [HCI in Games Conference proceedings 2026, part 1](https://link.springer.com/book/10.1007/978-3-032-30405-6)]. I further presented the paper at the conference remotely via Zoom to the live audience in Montreal.
 
 The paper is available [online](https://link.springer.com/chapter/10.1007/978-3-032-30405-6_5) (subscription or purchase required). Additionally, a pre-recorded backup version of my conference talk is available on [YouTube](https://youtu.be/rdIjJQvkwoM).

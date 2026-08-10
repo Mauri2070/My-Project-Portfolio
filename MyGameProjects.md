@@ -311,11 +311,11 @@ You may play or download the game from [itch.io](https://mauri2070.itch.io/battl
 
 Used technologies: Unity, C#
 
-### <GET THE KEY>
+### \<GET THE KEY\>
 
 ![<GET THE KEY>](./pictures/games/GetTheKey.png)
 
-I developed "<GET THE KEY>" for the "Synty's 12th Birthday Game Jam". It is a casual first-person game where you have to find the key in a very messy house (-> theme "Hide and Seek"). Every door or drawer can be opened to discover various items which may provide buffs or debuffs, and help you unlock the achievements featured in this game. 
+I developed "\<GET THE KEY\>" for the "Synty's 12th Birthday Game Jam". It is a casual first-person game where you have to find the key in a very messy house (-> theme "Hide and Seek"). Every door or drawer can be opened to discover various items which may provide buffs or debuffs, and help you unlock the achievements featured in this game. 
 
 For this game, I experimented extensively with AI coding agents to implement its logic.
 
@@ -325,7 +325,7 @@ Used technologies: Unity, C#, AI coding agents
 
 ### The last Knight
 
-![The last Knight](.pictures/games/TheLastKnight)
+![The last Knight](.pictures/games/TheLastKnight.png)
 
 I developed "The last Knight" for the "GMTK Game Jam 2026" within 2.5 days. It is a top-down rogue-lite adventure game with turn-based 3D battles featuring random events, quests, and persistent upgrades. As a twist and matching the jam's theme "Count Down", the player takes damage with every step taken in the world. 
 
