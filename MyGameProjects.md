@@ -325,7 +325,7 @@ Used technologies: Unity, C#, AI coding agents
 
 ### The last Knight
 
-![The last Knight](.pictures/games/TheLastKnight.png)
+![The last Knight](./pictures/games/TheLastKnight.png)
 
 I developed "The last Knight" for the "GMTK Game Jam 2026" within 2.5 days. It is a top-down rogue-lite adventure game with turn-based 3D battles featuring random events, quests, and persistent upgrades. As a twist and matching the jam's theme "Count Down", the player takes damage with every step taken in the world. 
 
