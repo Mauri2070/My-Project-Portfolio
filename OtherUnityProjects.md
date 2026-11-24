@@ -16,3 +16,6 @@ Keeping an overview of game development assets bought from several stores can be
 
 I programmed this tool to train vocabulary for my Italian language course. It provides support for different vocabulary sets. Each set consists of a list of vocabulary that can be extended at any time. A single vocabulary entry consists of the meaning in two languages, additional forms, expressions, and notes that can be edited. Further, the tool features an exercise mode where a skill level for each word is maintained. This skill level influences the frequency a word is shown in exercise mode.
 
+## Seating planner
+
+I programmed this tool for my sister who is an elementary school teacher. It allows her to input a socio-matrix for her classes and generate fitting seating planns based on a grid layout. The tool supports different placement strategies: Random, prioritize social students, prioritize students with few social contacts, alternating genders. The generated plans can then be exported as images.

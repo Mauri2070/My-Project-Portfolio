@@ -342,3 +342,15 @@ I developed "B.C.T.F." for the "ARD Game Jam 2026" (theme: Body & Mind) within 1
 You may play the game on [itch.io](https://mauri2070.itch.io/bctf-body-control-test-facility) or watch a gameplay video on [YouTube](https://youtu.be/orUaPL28m7g).
 
 Used technologies: Unity, C#, PixelStudio
+
+### Number Dungeons
+
+![Number Dungeons](./pictures/games/NumberDungeons.png)
+
+I developed "Number Dungeons" for the "Official Unity Game Jam 2026" (theme: Lucky Number) withing 2.5 days. In this dungeon crawler you use numbers and operators to fill out a formula and defeat enemies with the resulting value. Hitting a special random number will beat the enemy instantly.
+
+I used Claude Code to implement this game, supervising its output, and focussing on doing game design and visual adjustments to the Synty Asset Packy myself. 
+
+You may play the game on [itch.io](https://mauri2070.itch.io/number-dungeons) or watch a gameplay video on [YouTube](https://www.youtube.com/watch?v=wwnjnOcGbh8).
+
+Used technologies: Unity, C#, AI
